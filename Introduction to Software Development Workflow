@@ -1,0 +1,95 @@
+1. Introduction to Software Development Workflow
+
+<ins>Software Development Workflow</ins>
+Imagine you are working at a software development company that develops web applications for customers. 
+
+Your company just got a project order from one of the customers about developing an application for employees. That basically keeps information about those employees, some basic information, data about them,
+and keeps an internal database of those employee information. 
+
+So basically, it's a project that the customer company ordered your software development company to implement. So you need to develop this new web application with your small team. 
+
+Team Members & Roles 
+When developing an application, we don't only have software developers. We also have other equally important roles involved in the whole process of creating that application which are responsible for other
+parts of the application development. 
+
+For example your team can consist of: 
+
+1. Anna - Project Coordinator/Manager/Owner: 
+  * Identifies the product requirements by talking to the customer. 
+  * Translates these requirements into tasks for the development team.
+2. Tom - Software Developer: 
+  * Program the application.
+3. Peter - QA Tester: 
+  * Application needs to be tested extensively. 
+4. Maria - System Administrator: 
+  * Create and configure server.
+  * Run application on it and make it accessible to the users.
+  * Manage and administer database. 
+  * Configure networking for servers 
+
+Anna talks to the customers about the details on the product. Exactly what features the customer wants in that application, how they imagine the final product to look like. Anna takes all that knowledge
+that she received from the customer about how the product should look like and communicates that back to the software developers therefore Anna has a role of a product owner. 
+Once Anna finds out exactly what the product or web application should look like and what features it should have, the web application need to be developed. 
+
+Tom is having the role of the software developer. A developed or programmed application needs to be tested before handing it out to the customer. Therefore you would need a software (QA) Tester. 
+
+Peter has a tester role in out team. 
+
+Finally, once the application is developed and tested, it should be delivered to the customer or to the end users who will actually use that application from their laptop or browser so it needs to be deployed
+on public servers and accessible from Internet. Maria, is responsible for creating and configuring the server and making sure that application runs on it and is accessible for people to use it, that's how we
+can say that her role is a server/systems administrator. 
+
+So with these four roles, we are going to develop and deploy our employee application and complete our project successfully. As we go through this guide, you will learn and understand the tasks and 
+responsibilities of each of those roles, what they actually do, and we will implement the tasks that these roles will be responsible for. 
+
+By end of this guide you will have a complete understanding, what those terms mean and what they actually are. So, if any of those terms like database server and web server seem abstract and not really 
+understandable for you, you will obtain understanding and know exactly wht all of this actually means. 
+
+
+!!!IMPORTANT!!! - COLLABORATION
+The most essential thing in a software development teams is collaboration. 
+
+Even though each team member has a different role and responsibilities, their tasks are actually connected. 
+For example, product owner needs to properly explain to software developers, the product details,
+features and exactly what needs to be developed. Otherwise they will end up developing a product which is completely different from what the customer wanted. Developer on his side needs to tell tester when 
+they are done with developing a specific part of the application and it's ready to be tested. Testers need to communicate to the developers when they find some issues while testing the application, so that 
+developers can fix those issues. Developers need to also tell systems administrator, what they need to configure on the server so that application can run successfully because developers are the ones who 
+developed the application. So they know, the application should be run and they should communicate that to the web server administrator or systems administrator. 
+
+Now if you have multiple developers or multiple testers or sysadmins or basically multiple people for the same role, they need to talk to each other as well collaborate to know, who is doing what. That way, 
+they can devide the tasks among them and not intergere with each other's work. So essentially, team members need to talk to each other and work together if we want to complete the project successfully. 
+
+
+!!!IMPORTANT!!! - ONLINE TOOLS
+How do team members in IT projects talk to each other or work together? 
+Do they just go to each others work desk and talk to each other personally, like face to face?
+Do they physically sit together at a desk and work on a task? Well , they can do that obviously if they are sitting in the same office but there are a couple of issues if that was the only way of communication
+between the team members. 
+
+First of all, just using verbal communication would mean that nothing will get documented and written down so they may forget, what they talk about and what they agreed on. Second, if two team members talk 
+about something and decide something verbally, other team members won't be able to see that or know about it. Also, what if you have a remote team, some people working from home or another city, so how do you
+make sure that they communicate properly when they don't actually see physically in the same space. 
+
+To solve that, we need some online tools where the communication can happen. A company/team would need the things below:
+1. Online team space 
+  * People can chat and talk remotely if they want to, and others can see those conversations too. For example, Microsoft Teams, Slack
+2. Development communication space
+  * Developers and testers can talk remotely and notify one another about certain features that need to be tested and flag and issues/ bugs or enhancements. 
+  * Visualization app is key so they can easily see an overview, what features are in development, what features are tested, which feature/fix was released. For example, JIRA 
+
+
+!!!IMPORTANT!!! - AGILE  SCRUM 
+We will extend further into Agile & Scrum methodologies in the next guide therefore we would only brifly review it here. 
+
+Who defines the workflow? 
+When are the features tested? Bulk, immidiately? 
+Does every feature/bugfix get immediately released? 
+Does the product owner define the complete features of the software before coding is started? 
+How often is a new application version released? 
+
+For question like above there is a popular and widely adopted workflow or basically a standard way of working for software development teams called Agile and it's specific implementation called Scrum. 
+
+Agile philosophy defines more generally on an abstract level how IT teams should develop software. 
+Scrum framework implements that philosophy and defines how these Agile concepts should be implemented exactly. For example, Kanban. 
+
+On the next guide we will delve deeper into Agile & Scrum and how did they emerge.
