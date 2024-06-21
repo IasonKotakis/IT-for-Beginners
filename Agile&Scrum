@@ -1,0 +1,68 @@
+Complete Software Development Process. 
+
+PROGRAMMING
+1.Programming 
+a) Software is programmed by developers in different programming languages, e.g Java, Python, Javascript. 
+b) One team per app or per feature 
+c) New functionality / enhancements.
+d) Fix bugs. 
+
+
+SOFTWARE TESTING
+2. Software testing
+a) Test the new features 
+b) Test the old functionality/code 
+c) Testing is done by devs and dedicated testers
+d) Automated testing
+
+
+OPERATIONS
+3. Release of Software 
+a) Build the application / package the application 
+b) Run it on servers 
+c) Upgrade the existing software 
+
+
+Waterfall method (old method) 
+1. Requirements (Plan everything beforehand) 
+2. Development (Developers code complete app) 
+3. Testing (Testing after everything has developed)
+4. Operations (Plan & huge preparation for deployment)
+
+CONS: 
+1. Ineffective process 
+2. over time new requirements may arise 
+3. many places of failure and miscommunication 
+
+
+Agile method (new method) 
+1. Each feature gets tested, deployed
+2. Immidiate feedback 
+3. Fast & flexible development & deployment process 
+4. Scrum & Kanban - specific implementations 
+
+
+Agile is a practise that that helps develop an application with continuous sort iterations. 
+Faster to develop the application and identify issues. 
+Development, Testing and Deployment is happening pararrel. 
+
+
+SCRUM (agile methodology) 
+Typical 2-3 week sprints/iterations.
+Sprint planning: 
+1. Prioritize the tasks. (most important items)
+2. Backlog - less effective items will reside in a backlog. 
+
+Roles within Scrum 
+1. Scrum Master 
+2. Product Owner 
+3. Scrum team 
+
+Scrum Master - Ensures that Agile methodology is implemented properly by the team. The role is to guide and facilitate. Supports everyone in the scrum team 
+Identifies blockers and help removing obstacles inside the team and address any customer concerns. 
+
+Prodcut Owner - Represents the customer's interests and translates the vision of the project/product to the team. They are the ones adding tickets to the 
+backlog. Takes lead in prioritization of the bi-weekly sprint items and what to focus on. 
+
+Scrum team - Self organized team. Does the actual work of implementing the task of the sprint. Shares responsibility for meeting the sprint goals. Self 
+managed team, can make decisions on the own.
